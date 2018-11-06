@@ -12,7 +12,8 @@ Personality Insightsの使用、及びTwitterのツイート取得にはAPIを�
 
 
 ## Demo
-Twitter上のユーザである `@AbeShinzo` の性格を分析した結果は以下のようになります。
+Twitter上のユーザである `@AbeShinzo` の性格を分析した結果は以下のようになります。  
+
 <img src="demo/demo.png" alt="demo">
 
 
